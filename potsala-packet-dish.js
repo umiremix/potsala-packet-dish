@@ -8,7 +8,7 @@ class Potsala {
     this.items = word.split('')
   }
   get() {
-    while (this.result.indexOf(word) === -1) {
+    while (this.result.indexOf(this.word) === -1) {
       let rand = Math.random() * this.items.length | 0
       this.result += this.items[rand]
     }
