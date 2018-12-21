@@ -1,7 +1,7 @@
 {
   "name": "potsala-packet-dish",
-  "version": "0.0.1",
-  "description": "Complete a 'ポテサラパケットディッシュ'.",
+  "version": "1.0.0",
+  "description": "Complete a '繝昴ユ繧ｵ繝ｩ繝代こ繝�繝医ョ繧｣繝�繧ｷ繝･'.",
   "main": "potsala-packet-dish.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
